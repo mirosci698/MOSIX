@@ -6,5 +6,6 @@ Głównym celem było dobre opanowanie obsługi potoków i forków w systemie Li
 
 MOSIX
 
-Program written as a part of "Computer Architecture" laboratory. Program sends number to each process
-from which the factorial will be calculated. Main purpose was to learn how to use pipes and forks in Linux.
+Program written as a part of "Computer Architecture" laboratory.  
+Program sends number to each process from which the factorial will be calculated.  
+Main purpose was to learn how to use pipes and forks in Linux.
